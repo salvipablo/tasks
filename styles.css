@@ -16,6 +16,7 @@ h2 {
 .cntTareas {
     display: flex;
     justify-content: center;
+    height: 780px;
 }
 
 .tareasPendientes, .tareasEjecucion, .tareasFinalizadas {
